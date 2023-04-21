@@ -1,0 +1,103 @@
+C:\Users\Użytkownik\Desktop\studia\JA\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.exe.config
+C:\Users\Użytkownik\Desktop\studia\JA\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.exe
+C:\Users\Użytkownik\Desktop\studia\JA\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.pdb
+C:\Users\Użytkownik\Desktop\studia\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csprojAssemblyReference.cache
+C:\Users\Użytkownik\Desktop\studia\JA\RozmycieApp\RozmycieApp\obj\Debug\MainWindow.g.cs
+C:\Users\Użytkownik\Desktop\studia\JA\RozmycieApp\RozmycieApp\obj\Debug\App.g.cs
+C:\Users\Użytkownik\Desktop\studia\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp_MarkupCompile.cache
+C:\Users\Użytkownik\Desktop\studia\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp_MarkupCompile.lref
+C:\Users\Użytkownik\Desktop\studia\JA\RozmycieApp\RozmycieApp\obj\Debug\MainWindow.baml
+C:\Users\Użytkownik\Desktop\studia\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.g.resources
+C:\Users\Użytkownik\Desktop\studia\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.Properties.Resources.resources
+C:\Users\Użytkownik\Desktop\studia\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csproj.GenerateResource.cache
+C:\Users\Użytkownik\Desktop\studia\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.exe
+C:\Users\Użytkownik\Desktop\studia\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.pdb
+C:\Users\Kasia\Desktop\Nowy folder (4)\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.exe.config
+C:\Users\Kasia\Desktop\Nowy folder (4)\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.exe
+C:\Users\Kasia\Desktop\Nowy folder (4)\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.pdb
+C:\Users\Kasia\Desktop\Nowy folder (4)\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csprojAssemblyReference.cache
+C:\Users\Kasia\Desktop\Nowy folder (4)\RozmycieApp\RozmycieApp\obj\Debug\MainWindow.g.cs
+C:\Users\Kasia\Desktop\Nowy folder (4)\RozmycieApp\RozmycieApp\obj\Debug\App.g.cs
+C:\Users\Kasia\Desktop\Nowy folder (4)\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp_MarkupCompile.cache
+C:\Users\Kasia\Desktop\Nowy folder (4)\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp_MarkupCompile.lref
+C:\Users\Kasia\Desktop\Nowy folder (4)\RozmycieApp\RozmycieApp\obj\Debug\MainWindow.baml
+C:\Users\Kasia\Desktop\Nowy folder (4)\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.g.resources
+C:\Users\Kasia\Desktop\Nowy folder (4)\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.Properties.Resources.resources
+C:\Users\Kasia\Desktop\Nowy folder (4)\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csproj.GenerateResource.cache
+C:\Users\Kasia\Desktop\Nowy folder (4)\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csproj.CoreCompileInputs.cache
+C:\Users\Kasia\Desktop\Nowy folder (4)\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.exe
+C:\Users\Kasia\Desktop\Nowy folder (4)\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.pdb
+C:\Users\Kasia\Desktop\ja\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.exe.config
+C:\Users\Kasia\Desktop\ja\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.exe
+C:\Users\Kasia\Desktop\ja\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.pdb
+C:\Users\Kasia\Desktop\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csprojAssemblyReference.cache
+C:\Users\Kasia\Desktop\ja\RozmycieApp\RozmycieApp\obj\Debug\MainWindow.g.cs
+C:\Users\Kasia\Desktop\ja\RozmycieApp\RozmycieApp\obj\Debug\App.g.cs
+C:\Users\Kasia\Desktop\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp_MarkupCompile.cache
+C:\Users\Kasia\Desktop\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp_MarkupCompile.lref
+C:\Users\Kasia\Desktop\ja\RozmycieApp\RozmycieApp\obj\Debug\MainWindow.baml
+C:\Users\Kasia\Desktop\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.g.resources
+C:\Users\Kasia\Desktop\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.Properties.Resources.resources
+C:\Users\Kasia\Desktop\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csproj.GenerateResource.cache
+C:\Users\Kasia\Desktop\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csproj.CoreCompileInputs.cache
+C:\Users\Kasia\Desktop\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.exe
+C:\Users\Kasia\Desktop\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.pdb
+D:\grafika\ja\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.exe.config
+D:\grafika\ja\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.exe
+D:\grafika\ja\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.pdb
+D:\grafika\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csprojAssemblyReference.cache
+D:\grafika\ja\RozmycieApp\RozmycieApp\obj\Debug\MainWindow.g.cs
+D:\grafika\ja\RozmycieApp\RozmycieApp\obj\Debug\App.g.cs
+D:\grafika\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp_MarkupCompile.cache
+D:\grafika\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp_MarkupCompile.lref
+D:\grafika\ja\RozmycieApp\RozmycieApp\obj\Debug\MainWindow.baml
+D:\grafika\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.g.resources
+D:\grafika\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.Properties.Resources.resources
+D:\grafika\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csproj.GenerateResource.cache
+D:\grafika\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csproj.CoreCompileInputs.cache
+D:\grafika\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.exe
+D:\grafika\ja\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.pdb
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.exe.config
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.exe
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.pdb
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieApp\obj\Debug\MainWindow.g.cs
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieApp\obj\Debug\App.g.cs
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp_MarkupCompile.cache
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp_MarkupCompile.lref
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieApp\obj\Debug\MainWindow.baml
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.g.resources
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.Properties.Resources.resources
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csproj.GenerateResource.cache
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csproj.CoreCompileInputs.cache
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.exe
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.pdb
+C:\Users\Użytkownik\Desktop\JA kASIA\JA\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.exe.config
+C:\Users\Użytkownik\Desktop\JA kASIA\JA\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.exe
+C:\Users\Użytkownik\Desktop\JA kASIA\JA\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.pdb
+C:\Users\Użytkownik\Desktop\JA kASIA\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csprojAssemblyReference.cache
+C:\Users\Użytkownik\Desktop\JA kASIA\JA\RozmycieApp\RozmycieApp\obj\Debug\MainWindow.g.cs
+C:\Users\Użytkownik\Desktop\JA kASIA\JA\RozmycieApp\RozmycieApp\obj\Debug\App.g.cs
+C:\Users\Użytkownik\Desktop\JA kASIA\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp_MarkupCompile.cache
+C:\Users\Użytkownik\Desktop\JA kASIA\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp_MarkupCompile.lref
+C:\Users\Użytkownik\Desktop\JA kASIA\JA\RozmycieApp\RozmycieApp\obj\Debug\MainWindow.baml
+C:\Users\Użytkownik\Desktop\JA kASIA\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.g.resources
+C:\Users\Użytkownik\Desktop\JA kASIA\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.Properties.Resources.resources
+C:\Users\Użytkownik\Desktop\JA kASIA\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csproj.GenerateResource.cache
+C:\Users\Użytkownik\Desktop\JA kASIA\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.exe
+C:\Users\Użytkownik\Desktop\JA kASIA\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.pdb
+D:\study\Ja2\JA\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.exe.config
+D:\study\Ja2\JA\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.exe
+D:\study\Ja2\JA\RozmycieApp\RozmycieApp\bin\Debug\RozmycieApp.pdb
+D:\study\Ja2\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csprojAssemblyReference.cache
+D:\study\Ja2\JA\RozmycieApp\RozmycieApp\obj\Debug\MainWindow.g.cs
+D:\study\Ja2\JA\RozmycieApp\RozmycieApp\obj\Debug\App.g.cs
+D:\study\Ja2\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp_MarkupCompile.cache
+D:\study\Ja2\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp_MarkupCompile.lref
+D:\study\Ja2\JA\RozmycieApp\RozmycieApp\obj\Debug\MainWindow.baml
+D:\study\Ja2\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.g.resources
+D:\study\Ja2\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.Properties.Resources.resources
+D:\study\Ja2\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csproj.GenerateResource.cache
+D:\study\Ja2\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csproj.CoreCompileInputs.cache
+D:\study\Ja2\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.exe
+D:\study\Ja2\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.pdb
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieApp\obj\Debug\RozmycieApp.csproj.AssemblyReference.cache

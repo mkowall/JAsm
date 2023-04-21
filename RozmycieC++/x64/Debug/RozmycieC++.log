@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (RozmycieC++.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Rozmycie.cpp
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(22,25): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(23,20): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(25,24): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(33,35): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(34,33): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(39,36): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(55,39): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(57,39): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieC++\Rozmycie.cpp(59,39): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+  RozmycieC++.vcxproj -> C:\Users\07ole\source\repos\JA\RozmycieApp\RozmycieApp\bin\Debug\RozmycieCPP.dll
